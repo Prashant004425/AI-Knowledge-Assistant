@@ -1,4 +1,4 @@
-# 🤖 AI Knowledge Assistant
+# AI Knowledge Assistant
 
 > A local, open-source RAG-powered assistant that reads your internal docs and actually answers questions about them — with citations.
 
@@ -34,14 +34,14 @@ This is called **Retrieval-Augmented Generation (RAG)** — the LLM doesn't gues
 
 ## Features
 
-- 📄 **Multi-format ingestion** — Markdown, PDF, DOCX, CSV
-- 🧠 **Semantic search** — finds relevant content even if you don't use exact keywords
-- 💬 **Chat interface** — ask questions, get answers, see where they came from
-- 🔗 **Source citations** — every answer links back to the chunk it was derived from
-- 📤 **Export** — save your Q&A session to Word or Excel
-- 📊 **Evaluation logging** — latency, recall, citation coverage tracked automatically
-- 🔄 **Re-index on demand** — add new docs and refresh the knowledge base with one command
-- 🔒 **Local & private** — everything runs on your machine
+-  **Multi-format ingestion** — Markdown, PDF, DOCX, CSV
+-  **Semantic search** — finds relevant content even if you don't use exact keywords
+-  **Chat interface** — ask questions, get answers, see where they came from
+-  **Source citations** — every answer links back to the chunk it was derived from
+-  **Export** — save your Q&A session to Word or Excel
+-  **Evaluation logging** — latency, recall, citation coverage tracked automatically
+-  **Re-index on demand** — add new docs and refresh the knowledge base with one command
+-  **Local & private** — everything runs on your machine
 
 ---
 
