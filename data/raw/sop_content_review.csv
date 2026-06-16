@@ -1,0 +1,5 @@
+# {"title": "Content Review SOP", "tags": ["sop", "content", "workflow"], "date": "2026-05-28"}
+step,owner,deadline
+Draft document,Author,2 days
+Review draft,Editor,1 day
+Publish,Ops,Same day

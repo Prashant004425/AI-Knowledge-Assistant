@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env.local
+node_modules/
+.next/
+data/vectorstore/
+data/exports/
+logs/

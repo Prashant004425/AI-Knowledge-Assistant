@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+sentence-transformers
+chromadb
+pymupdf
+docx2txt
+pandas
+python-docx
+openpyxl
+matplotlib
+requests
+python-dotenv
+streamlit
